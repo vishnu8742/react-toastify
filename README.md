@@ -15,12 +15,12 @@
 ## Installation
 
 ```
-$ npm install --save react-toastify
-$ yarn add react-toastify
+$ npm install --save react-toastify-modernize
+$ yarn add react-toastify-modernize
 ```
 
 ## Features
-
+- This is fork from https://www.npmjs.com/package/react-toastify & modified for the theme of modernize. 
 - Easy to set up for real, you can make it work in less than 10sec!
 - Super easy to customize
 - RTL support

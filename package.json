@@ -2,7 +2,7 @@
   "version": "9.1.2",
   "license": "MIT",
   "typings": "dist/index.d.ts",
-  "description": "React notification made easy",
+  "description": "React notification made easy - Color Corrected For Modernize Theme",
   "keywords": [
     "react",
     "notification",
@@ -87,13 +87,13 @@
   "name": "react-toastify",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fkhadra/react-toastify.git"
+    "url": "git+https://github.com/vishnu8742/react-toastify.git"
   },
-  "author": "Fadi Khadra  <fdkhadra@gmail.com> (https://fkhadra.github.io)",
+  "author": "Fadi Khadra  <fdkhadra@gmail.com> (https://fdkhadra.github.io)",
   "bugs": {
-    "url": "https://github.com/fkhadra/react-toastify/issues"
+    "url": "https://github.com/vishnu8742/react-toastify/issues"
   },
-  "homepage": "https://github.com/fkhadra/react-toastify#readme",
+  "homepage": "https://github.com/vishnu8742/react-toastify#readme",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^14.0.0",
