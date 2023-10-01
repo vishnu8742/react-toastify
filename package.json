@@ -84,7 +84,7 @@
       "node"
     ]
   },
-  "name": "react-toastify",
+  "name": "react-toastify-modernize",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vishnu8742/react-toastify.git"
