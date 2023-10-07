@@ -1,10 +1,10 @@
 :root {
-  --toastify-color-light: #fff;
-  --toastify-color-dark: #121212;
-  --toastify-color-info: #3498db;
-  --toastify-color-success: #07bc0c;
-  --toastify-color-warning: #f1c40f;
-  --toastify-color-error: #e74c3c;
+  --toastify-color-light: #F6F9FC;
+  --toastify-color-dark: #2A3547;
+  --toastify-color-info: #539BFF;
+  --toastify-color-success: #13DEB9;
+  --toastify-color-warning: #FFAE1F;
+  --toastify-color-error: #FA896B;
   --toastify-color-transparent: rgba(255, 255, 255, 0.7);
   --toastify-icon-color-info: var(--toastify-color-info);
   --toastify-icon-color-success: var(--toastify-color-success);
